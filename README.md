@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saicharanritwik39&label=Profile%20views&color=0e75b6&style=flat" alt="saicharanritwik39" /> </p>
 
-- 🔭 I’m currently working on [Mathematical Modelling Social Dynamics](https://github.com/SaicharanRitwik39/Mathematical-Modelling-of-Social-Dynamics)
+- 🔭 I’m currently working on [Mathematical Modelling of Social Dynamics](https://github.com/SaicharanRitwik39/Mathematical-Modelling-of-Social-Dynamics)
 
 - 💬 Ask me about **Python (Streamlit,Pandas,Numpy,Seaborn,Matplotlib,NashPy,SciPy,SymPy)**
 
