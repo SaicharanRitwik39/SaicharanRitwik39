@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **saicharanritwik393020@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1uj4fAp8jzuWw5K3V-dWfUmp-yq7BS-D0/view](https://drive.google.com/file/d/1uj4fAp8jzuWw5K3V-dWfUmp-yq7BS-D0/view)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1uj4fAp8jzuWw5K3V-dWfUmp-yq7BS-D0/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
