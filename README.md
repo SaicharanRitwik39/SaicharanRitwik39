@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Mathematical Modelling of Social Dynamics](https://github.com/SaicharanRitwik39/Mathematical-Modelling-of-Social-Dynamics)
 
-- 💬 Ask me about **Python (Streamlit,Pandas,Numpy,Seaborn,Matplotlib,NashPy,SciPy,SymPy)**
+- 💬 Feel free to ask me about Python or any mathematical concepts. I am open to discussing anything — except for MOSFETs. Let's dive into coding and intriguing mathematical ideas!
 
 - 📫 How to reach me **saicharanritwik393020@gmail.com**
 
