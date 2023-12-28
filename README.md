@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Mathematical Modelling of Social Dynamics](https://github.com/SaicharanRitwik39/Mathematical-Modelling-of-Social-Dynamics)
 
-- 💬 Feel free to ask me about Python or any mathematical concepts. I am open to discussing anything — except for MOSFETs. Let's dive into coding and intriguing mathematical ideas!
+- 💬 Feel free to ask me about Python or any mathematical concepts. I am open to discussing anything — except for MOSFETs and Flip Flops. Let's dive into intriguing ideas!
 
 - 📫 How to reach me **saicharanritwik393020@gmail.com**
 
