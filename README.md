@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, 👋, I'm Saicharan Ritwik!</h1>
-<h3 align="center">An undergrad pursuing three majors: Mathematics, Data Science and Electronics.</h3>
+<h3 align="center">An undergrad pursuing 4 majors: Mathematics, Data Science, Finance and Electronics.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saicharanritwik39&label=Profile%20views&color=0e75b6&style=flat" alt="saicharanritwik39" /> </p>
 
