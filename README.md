@@ -11,7 +11,11 @@
 
 - 📫 How to reach me **saicharanritwik393020@gmail.com**
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1UJeLo2tgiQukDmR4QoN3-HIHSZV52JNi/view)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1M2wnk4tiu1ESvhKTqerJAvuivT5qf7-y/view)
+
+- 👨‍🔬 My Technical Blog [Prophetic Pulsations](https://bouncy-salsa-2c8.notion.site/Prophetic-Pulsations-f01ce3445c8648caa59879b0e826c2e8)
+
+- 📘 My Philosophical Blog [Contemplative Chronicles](https://bouncy-salsa-2c8.notion.site/Contemplative-Chronicles-f485a85433e446b2976af2ca65c87524)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
