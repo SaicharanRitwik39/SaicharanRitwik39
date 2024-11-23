@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **saicharanritwik393020@gmail.com**
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1y8-3NUot-l4oIMVTyOFV6rwfLFyeXySd/view)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1yDno3pju0w-aRaxm6WL-o7xdA_RjpBoG/view)
 
 - 👨‍🔬 My Technical Blog [Prophetic Pulsations](https://bouncy-salsa-2c8.notion.site/Prophetic-Pulsations-f01ce3445c8648caa59879b0e826c2e8)
 
