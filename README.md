@@ -1,21 +1,12 @@
 <h1 align="center">Hello there, 👋, I'm Saicharan Ritwik!</h1>
-<h3 align="center">An undergrad pursuing 4 majors: Mathematics, Data Science, Finance and Electronics.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saicharanritwik39&label=Profile%20views&color=0e75b6&style=flat" alt="saicharanritwik39" /> </p>
 
-- 🔭 I’m currently working on [Mathematical Modelling of Social Dynamics](https://github.com/SaicharanRitwik39/Mathematical-Modelling-of-Social-Dynamics)
-
-- I'm currently learning about Deep Learning Techniques and Mathematical Epidemiology.
-
-- 💬 Feel free to ask me about Python or any mathematical concepts. I am open to discussing anything — except for MOSFETs and Flip Flops. Let's dive into intriguing ideas!
+- 💬 Feel free to ask me about Python or any mathematical concepts. I am open to discussing anything — except for MOSFETs and Flip Flops :).
 
 - 📫 How to reach me **saicharanritwik393020@gmail.com**
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1yDno3pju0w-aRaxm6WL-o7xdA_RjpBoG/view)
-
 - 👨‍🔬 My Technical Blog [Prophetic Pulsations](https://bouncy-salsa-2c8.notion.site/Prophetic-Pulsations-f01ce3445c8648caa59879b0e826c2e8)
-
-- 📘 My Philosophical Blog [Contemplative Chronicles](https://bouncy-salsa-2c8.notion.site/Contemplative-Chronicles-f485a85433e446b2976af2ca65c87524)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
