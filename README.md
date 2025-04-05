@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saicharanritwik39&label=Profile%20views&color=0e75b6&style=flat" alt="saicharanritwik39" /> </p>
 
-- 💬 Feel free to ask me about Python or any mathematical concepts. I am open to discussing anything — except for MOSFETs and Flip Flops :).
+- 💬 I am open to discussing anything — except for MOSFETs and Flip Flops :).
 
 - 📫 How to reach me **saicharanritwik393020@gmail.com**
 
